@@ -1,3 +1,5 @@
+package lab4;
+
 public class Colletionlist<E> {
         Node<E> list = new Node<E>();
 

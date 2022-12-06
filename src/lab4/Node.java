@@ -1,3 +1,5 @@
+package lab4;
+
 public class Node<E> {
     E data;
     Node<E> next = null;
